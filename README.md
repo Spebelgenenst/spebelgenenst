@@ -27,6 +27,4 @@ I use arch btw
 
 ---
 
-© Spebelgenenst 2026 | [privacy policy](/privacy)
-
 <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  /><img src="https://cdn.simpleicons.org/raspberrypi/A22846" height="30" alt="raspberrypi logo"  /><img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="linux logo"  />
